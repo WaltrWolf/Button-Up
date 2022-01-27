@@ -1,0 +1,26 @@
+.search{
+    width: 150px;
+    border-radius: 20px;
+    border-color: rgb(114, 224, 114);
+    font-size:medium;
+    color: green;
+}
+.plus{
+    height:50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color:white;
+    background-color: rgb(37, 165, 37);
+    border-color: white;
+    font-size: larger;
+}
+#Account{
+    border-color: black;
+    width: 200px;
+    padding: 5px;
+    font-size: large;
+    color: white;
+    background-color:steelblue;
+}
